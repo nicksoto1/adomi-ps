@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-# Processo Seletivo - Adomi
+ O Adomi faz parte de um processo seletivo
 
 
 
