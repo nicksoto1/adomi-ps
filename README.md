@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  Clonar o repositorio
 ```bash
-$ git clone 
+$ git clone https://github.com/nicksoto1/adomi-ps.git
 ```
 
 Baixar a extensão 
