@@ -1,16 +1,64 @@
+
+
+<h1 align="center">
+  # Processo Seletivo - Adomi
+</h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
+  
+</p>
+
+
+
+
+
+
+
+
+
+
+## ✨ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+
+- JavaScript
+
+
+
+## 💻 Projeto
+
 # Processo Seletivo - Adomi
 
-#### Os exercícios estão no arquivo: [Exercícios](processo_seletivo.md)
 
-#### Instruções para entrega:
-- Faça um Fork do repositório
-- Abra uma pull request da sua branch
 
-(se tiver dificuldade para seguir algum dos passos acima entre em contato
-no email tiago.sestari@adomi.com.br)
+## 🚀 Como executar
 
-#### Formato de entrega:
-- Você pode organizar o(s) arquivo(s) com as soluções dos exercícios da forma que julgar melhor.
-- Você deve usar JavaScript.
-- Sua entrega deve conter instruções de como devemos testar as suas soluções.
-- Você deve entregar em até 7 dias a partir do envio do email.
+ Clonar o repositorio
+```bash
+$ git clone 
+```
+
+Baixar a extensão 
+```bash
+Code Runner
+```
+Executar 
+```bash
+Ctrl + Alt +N
+```
+
+
+
+Feito por Michael Soto
+
+## ✒️ Author
+
+<a href="https://github.com/nicksoto1">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67668995?v=4" width="100px;" alt="Michael Soto"/>
+ <br />
+ <sub><b>Michael Soto</b></sub></a> <a href="https://github.com/nicksoto1">🚀</a>
+ <br />
